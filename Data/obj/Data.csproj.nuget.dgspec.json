@@ -221,6 +221,10 @@
             "SimpleInjector": {
               "target": "Package",
               "version": "[4.0.8, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[9.0.3, )"
             }
           },
           "imports": [

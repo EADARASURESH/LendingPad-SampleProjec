@@ -101,6 +101,8 @@ C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.csproj.Up2Date
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.dll
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\WebApi\obj\Debug\WebApi.pdb
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\WebApi.dll.config
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\WebApi.dll
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\WebApi.pdb
@@ -199,8 +201,7 @@ C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\System.Web.WebPa
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\System.Web.WebPages.Razor.xml
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\Antlr3.Runtime.pdb
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.csproj.AssemblyReference.cache
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.csproj.CoreCompileInputs.cache
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.csproj.Up2Date
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.dll
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\obj\Debug\WebApi.pdb
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\WebApi\bin\Swashbuckle.Core.dll

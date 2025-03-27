@@ -9,6 +9,7 @@ using Newtonsoft.Json.Serialization;
 using SimpleInjector;
 using SimpleInjector.Integration.WebApi;
 using SimpleInjector.Lifestyles;
+using Swashbuckle.Application;
 using WebApi.App_Start;
 
 namespace WebApi
@@ -41,6 +42,11 @@ namespace WebApi
             settings.DateParseHandling = DateParseHandling.DateTime;
             settings.DefaultValueHandling = DefaultValueHandling.Include;
             settings.Converters.Add(new StringEnumConverter());
+            config.EnableSwagger(c =>
+            {
+                c.SingleApiVersion("v1", "Your API Title");               
+            })
+            .EnableSwaggerUi();
 
             config.MapHttpAttributeRoutes();
 

@@ -15,6 +15,12 @@ C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.csproj.Up2Date
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\suresh\Downloads\sample-project-main\sample-project-main\SampleProject\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.sourcelink.json
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\Core.deps.json
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\Core.dll
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\Core.pdb
@@ -24,12 +30,6 @@ C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\BusinessEntities.pdb
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\Data.pdb
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\bin\Debug\netstandard2.0\Common.pdb
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.csproj.AssemblyReference.cache
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
-C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.sourcelink.json
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.csproj.Up2Date
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.dll
 C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\obj\Debug\netstandard2.0\Core.pdb
