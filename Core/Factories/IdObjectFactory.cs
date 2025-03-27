@@ -13,5 +13,6 @@ namespace Core.Factories
             ReflectionHelper.SetProperty(instance, typeof(T).GetProperty("Id"), id);
             return instance;
         }
+       
     }
 }
