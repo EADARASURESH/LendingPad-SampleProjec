@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pdb
+*.dll
+*.exe
+!packages/**/*.dll
+!packages/**/*.exe
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+
+# Other
+*.log
