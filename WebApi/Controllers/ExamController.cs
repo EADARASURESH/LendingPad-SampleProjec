@@ -63,6 +63,10 @@ namespace WebApi.Controllers
         public HttpResponseMessage GetExam(Guid examId)
         {
             var exam = _getExamService.GetExam(examId);
+            if (exam == null)
+            {
+                return DoesNotExist();
+            }
             return Found(new ExamData(exam));
         }
 
@@ -89,7 +93,9 @@ namespace WebApi.Controllers
         [HttpGet]
         public HttpResponseMessage GetExamsByTitle(string title)
         {
-            var exams = _getExamService.GetExams(title);
+            var exams = _getExamService.GetExams(title)
+                                       .Select(q => new ExamData(q))
+                                       .ToList();
             return Found(exams);
         }
     }

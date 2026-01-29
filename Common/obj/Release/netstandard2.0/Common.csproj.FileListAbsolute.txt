@@ -1,0 +1,11 @@
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/bin/Release/netstandard2.0/Common.deps.json
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/bin/Release/netstandard2.0/Common.dll
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/bin/Release/netstandard2.0/Common.pdb
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.csproj.AssemblyReference.cache
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.AssemblyInfoInputs.cache
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.AssemblyInfo.cs
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.csproj.CoreCompileInputs.cache
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.sourcelink.json
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.dll
+/home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Common/obj/Release/netstandard2.0/Common.pdb

@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Core
-build_property.ProjectDir = C:\Users\suresh\Source\Repos\LendingPad-SampleProjec\Core\
+build_property.ProjectDir = /home/runner/work/LendingPad-SampleProjec/LendingPad-SampleProjec/Core/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
